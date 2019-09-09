@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 //code accesses and prints all the elements of array list
-public class PadmajaArrayTest {
+public class ArrayListCloning {
     public static void main(String[] args){
         ArrayList<StringBuilder> list = new ArrayList<StringBuilder>();
         StringBuilder sb1 = new StringBuilder("Jan");
